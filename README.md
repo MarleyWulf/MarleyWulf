@@ -4,12 +4,12 @@
 
 I'm a Fullstack Software Developer with a unique background in art and graphic design. This fusion of creativity and technical skills allows me to craft visually appealing and highly functional web applications. I utilize tools like React.js, MongoDB, and various front-end technologies to build dynamic projects. I thrive on learning new technologies and finding innovative solutions to real-world problems. 
 
-**Skills**  
+## Skills 
 - **Languages**: Python, JavaScript, SQL  
 - **Frameworks & Tools**: HTML, CSS, React, Next.js, MongoDB, Mongoose, MUI, Tailwind  
 - **Other Tools**: Git
 
-**Projects**  
+## Projects  
 
 
 
