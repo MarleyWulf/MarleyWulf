@@ -16,14 +16,14 @@ I'm a Fullstack Software Developer with a unique background in art and graphic d
 
 **[AI Chatbot](https://github.com/MarleyWulf/Customer-Support-AI-Chatbot)**
 
--A chatbot that acts as a customer support for real estate. This project is powered by using the Google Gemini ai to answer your questions on real estate and hosted on AWS. The app was designed using Nextjs along with Material UI for sleek and uniform design. 
+- A chatbot that acts as a customer support for real estate. This project is powered by using the Google Gemini ai to answer your questions on real estate and hosted on AWS. The app was designed using Nextjs along with Material UI for sleek and uniform design. 
 
 **[Youtube Clone](https://github.com/MarleyWulf/youtube-clone)**
--This project is a YouTube clone built using the Google YouTube API. It replicates the core functionalities of YouTube, allowing users to watch videos and browse channels. The application is developed with React and styled with Material-UI for a seamless and responsive user experience.
+- This project is a YouTube clone built using the Google YouTube API. It replicates the core functionalities of YouTube, allowing users to watch videos and browse channels. The application is developed with React and styled with Material-UI for a seamless and responsive user experience.
 
 **[Sushiboy](https://github.com/MarleyWulf/Sushiboy)**
 
--This project is a simple yet dynamic web page for a sushi restaurant, created using basic HTML and CSS with advanced styling techniques. The page showcases various types of sushi available for order, along with their prices. CSS animations add dynamics and dimension, enhancing the visual appeal and user experience.
+- This project is a simple yet dynamic web page for a sushi restaurant, created using basic HTML and CSS with advanced styling techniques. The page showcases various types of sushi available for order, along with their prices. CSS animations add dynamics and dimension, enhancing the visual appeal and user experience.
 
 **[Metaversus](https://github.com/MarleyWulf/metaverse-nextjs)**
 - The Metaversus page lets you take a dive into an immersive website. Made with Nextjs to deliver and modern and cutting edge design. Uses animations from Nextjs to take you on a journey through the website.
