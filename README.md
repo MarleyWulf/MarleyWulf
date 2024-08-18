@@ -14,7 +14,11 @@ I'm a Fullstack Software Developer with a unique background in art and graphic d
 
 **[AI Chatbot](https://github.com/MarleyWulf/Customer-Support-AI-Chatbot)**
 
+**[Youtube Clone](https://github.com/MarleyWulf/youtube-clone)**
 
+**[Sushiboy](https://github.com/MarleyWulf/Sushiboy)**
+
+**[Metaversus](https://github.com/MarleyWulf/metaverse-nextjs)**
 
 <!--
 **MarleyWulf/MarleyWulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
