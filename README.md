@@ -10,13 +10,11 @@ I'm a Fullstack Software Developer with a unique background in art and graphic d
 - **Other Tools**: Git
 
 ## Projects  
-Pantry Manager[Pantry Manager](https://github.com/MarleyWulf/pantrymanager)
+**[Pantry Manager](https://github.com/MarleyWulf/pantrymanager)**
 
-AI Chatbot[AI Chatbot](https://github.com/MarleyWulf/Customer-Support-AI-Chatbot)
+**[AI Chatbot](https://github.com/MarleyWulf/Customer-Support-AI-Chatbot)**
 
-<a href="https://github.com/MarleyWulf/Customer-Support-AI-Chatbot" style="text-decoration: none; color: inherit;">
-  AI Chatbot
-</a>
+
 
 <!--
 **MarleyWulf/MarleyWulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
