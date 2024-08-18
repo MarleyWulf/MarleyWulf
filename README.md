@@ -10,6 +10,10 @@ I'm a Fullstack Software Developer with a unique background in art and graphic d
 - **Other Tools**: Git
 
 ## Projects  
+[Pantry Manager](https://github.com/MarleyWulf/pantrymanager)
+
+[AI Chatbot](https://github.com/MarleyWulf/Customer-Support-AI-Chatbot)
+
 
 
 
